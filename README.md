@@ -6,6 +6,14 @@ Blender Watercolor is an experimental, local Blender extension for porous-surfac
 
 ![Watercolor washes on flat and curved surfaces](docs/media/washes.png)
 
+## Live painting demo
+
+Adding more paint while the wet washes spread, blend and dry.
+
+[![Live watercolor painting: adding pigment and watching the washes spread](docs/media/painting.webp)](https://github.com/mgwilt/blender-watercolor/raw/refs/heads/main/examples/painting.mp4)
+
+Watch the full-size recording: [MP4](https://github.com/mgwilt/blender-watercolor/raw/refs/heads/main/examples/painting.mp4) · [WebM](https://github.com/mgwilt/blender-watercolor/raw/refs/heads/main/examples/painting.webm).
+
 ## Installation
 
 Requires Blender 5.2 LTS. Download the [release ZIP](https://github.com/mgwilt/blender-watercolor/releases/tag/v0.1.0), open **Edit → Preferences → Get Extensions**, use the menu's **Install from Disk**, select the ZIP and enable Blender Watercolor.
