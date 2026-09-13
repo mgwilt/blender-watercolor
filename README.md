@@ -2,7 +2,7 @@
 
 Paint water and pigment directly onto a mesh while it spreads, absorbs and dries.
 
-Blender Watercolor is an experimental, local Blender extension for porous-surface painting. It includes native painting controls, a conservative surface simulation and translucent pigment optics. No accounts, external services or downloads are needed while painting.
+Blender Watercolor is an experimental, local Blender extension for porous-surface painting. It includes native painting controls, a conservative surface simulation and translucent pigment optics. 
 
 ![Watercolor washes on flat and curved surfaces](docs/media/washes.png)
 
