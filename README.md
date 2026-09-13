@@ -8,7 +8,7 @@ Blender Watercolor is an experimental, local Blender extension for porous-surfac
 
 ## Installation
 
-Requires Blender 5.2 LTS. Download the [release ZIP](https://github.com/mgwilt/blender-watercolor/releases/latest), open **Edit → Preferences → Get Extensions**, use the menu's **Install from Disk**, select the ZIP and enable Blender Watercolor.
+Requires Blender 5.2 LTS. Download the [release ZIP](https://github.com/mgwilt/blender-watercolor/releases/tag/v0.1.0), open **Edit → Preferences → Get Extensions**, use the menu's **Install from Disk**, select the ZIP and enable Blender Watercolor.
 
 Open the 3D Viewport sidebar (`N`) and choose **Watercolor**. The commands are also available through `F3` search.
 
