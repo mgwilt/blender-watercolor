@@ -1,0 +1,15 @@
+[project]
+name = "blender-watercolor"
+version = "0.1.0"
+description = "Surface watercolor simulation and native Blender painting tools"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "GPL-3.0-or-later"
+dependencies = ["numpy>=2.2"]
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+[tool.setuptools.packages.find]
+include = ["blender_watercolor*"]
+[tool.setuptools.package-data]
+blender_watercolor = ["blender_manifest.toml"]

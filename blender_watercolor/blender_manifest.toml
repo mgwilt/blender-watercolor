@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "blender_watercolor"
+version = "0.1.0"
+name = "Blender Watercolor"
+tagline = "Paint flowing pigments on porous mesh surfaces"
+maintainer = "mgwilt"
+type = "add-on"
+website = "https://github.com/mgwilt/blender-watercolor"
+blender_version_min = "5.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Paint", "Material"]
+[permissions]
+files = "Export painted textures to a location you choose"
